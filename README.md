@@ -5,3 +5,7 @@ A custom dark theme for Sonarr v3
 
 ## ROADMAP
 - add support for color-impaired mode.
+
+## SCREENSHOTS
+more to come
+![Screenshot](https://i.imgur.com/6Tgmimx.png)
