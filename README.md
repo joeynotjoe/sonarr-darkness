@@ -8,4 +8,5 @@ A custom dark theme for [Sonarr](https://github.com/Sonarr/) [v3](https://forums
 
 ## SCREENSHOTS
 more to come
-![Screenshot](https://i.imgur.com/6Tgmimx.png)
+![Screenshot - Series View](https://i.imgur.com/6Tgmimx.png)
+![Screenshot - Calendar](https://i.imgur.com/0UHgF36.png)
