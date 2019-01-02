@@ -7,6 +7,4 @@ A custom dark theme for [Sonarr](https://github.com/Sonarr/) [v3](https://forums
 - add support for color-impaired mode.
 
 ## SCREENSHOTS
-more to come
 ![Screenshot - Series View](https://i.imgur.com/6Tgmimx.png)
-![Screenshot - Calendar](https://i.imgur.com/0UHgF36.png)
