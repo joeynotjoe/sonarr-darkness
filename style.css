@@ -1,444 +1,237 @@
-@import url('https://fonts.googleapis.com/css?family=Source Sans Pro');
-@import url('https://fonts.googleapis.com/css?family=Fira Code');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
+html,
 body {
-  overflow: hidden;
-  background-color: #232323;
-}
-
-html, body {
-  font-family: 'Source Sans Pro', 'Roboto', 'open sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #fefefe90
-}
-
-.SeriesDetails-path-30k5w, .SeriesDetails-sizeOnDisk-33np_, .SeriesDetails-qualityProfileName-2Tyab, .SeriesDetails-network-3RiPy, .SeriesDetails-links-17Fpl, .SeriesDetails-tags-16_QD {
-  margin-left: 8px;
-  font-weight: 500;
-}
-
-.PageHeader-header-1lnFT {
-  background-color: #212121;
-}
-
-.Button-default-1X0nf {
-  color: #fefefe;
-  background-color: #676767;
-  border-color: #676767;
-}
-
-.PageSidebarItem-isActiveParentLink-2qgS5 {
-  background-color: #5d9cec;
-  color: #fefefe
-}
-
-.EpisodeDetailsModalContent-selectedTab-7Bu7j {
-  border-color: #676767;
-  border-radius: 0 0 5px 5px;
-  background-color: #676767;
-  color: #fefefe;
-}
-
-.CalendarPage-calendarInnerPageBody-Ac_g3 {
-  background-color: #303030;
-}
-
-.CalendarDay-dayOfMonth-3ZysC {
-  border-color: #424242
-}
-
-.CalendarDay-day-3WaqW {
-  background-color: #303030;
-}
-
-.CalendarDay-isToday-1ZMWk {
-  background-color: #27c24c
-}
-
-.CalendarDay-day-3WaqW {
-  border-bottom: 1px solid #676767;
-  border-bottom-width: 1px;
-  border-bottom-color: #676767;
-  border-left: 1px solid #676767;
-}
-
-.DayOfWeek-dayOfWeek--jS1P {
-  background-color: #676767;
-  color: #fefefe;
-}
-
-.CalendarEvent-event-27nY_ {
-  border-bottom: none
-}
-
-.CalendarEvent-onAir-QEkUY {
-  border-left-color: #ffa500 !important;
-  background-color: #ffa500;
-}
-
-.PageSidebar-sidebar-2UXc0, .PageSidebar-sidebarContainer-2kLcI {
-  background-color: #212121;
-}
-
-.PageToolbar-toolbar-1oL_w {
-  background-color: #303030;
-  color: #fefefe;
-  border-bottom: 1px solid #212121
-}
-
-.PageToolbarButton-label-13ZCD {
-  color: #fefefe;
-  font-size: .8em;
-  font-weight: 400
-}
-
-.CalendarEvent-downloaded-1wXUG {
-  background-color: #27c24c;
-  border-left-color: #27c24c;
-  color: #fefefe;
-}
-
-.CalendarEvent-downloading-JbB3z {
-  border-left-color: #7a43b6 !important;
-  background-color: #7a43b6 !important;
-  color: #fefefe;
-}
-
-.CalendarEvent-unaired-3RFXK {
-  border-left-color: #5d9cec !important;
-  background-color: #5d9cec;
-  color: #fefefe;
-}
-
-.CalendarEvent-unmonitored-13GIn {
-  border-left-color: #adadad !important;
-  background-color: #adadad;
-  color: #fefefe;
-}
-
-.CalendarEvent-missing-1X_IG {
-  border-left-color: #f05050 !important;
-  background-color: #f05050;
-  color: #fefefe
-}
-
-.CalendarEvent-seriesTitle-1JEPE {
-  color: #fefefe;
-  font-weight: 600;
-}
-
-.CalendarEventGroup-eventGroup--zT0v {
-  overflow-x: hidden;
-  margin: 4px 2px;
-  padding: 5px;
-  border-bottom: 1px solid #5d9cec70;
-  border-left: 4px solid #5d9cec70;
-  background-color: #5d9cec70;
-  font-size: 12px;
-  font-weight: 700;
-}
-
-.CalendarEventGroup-seriesTitle-3UC2O {
-  color: #fefefe
-}
-
-.AgendaEvent-event-1-I4T {
-  border-bottom: 1px solid #676767;
-}
-
-.AgendaEvent-event-1-I4T:hover {
-  background-color: #424242;
-}
-
-.ModalContent-modalContent-1B9AX {
-  background-color: #212121;
-  color: #fefefe
-}
-
-.TableRowCell-cell-3hR4a {
-  border-top: 1px solid #676767
-}
-
-.ModalHeader-modalHeader-P3MTG {
-  border-bottom-color: #424242
-}
-
-.TableRow-row-2tPLX:hover {
-  background-color: #424242
-}
-
-.Label-default-2zdw6 {
-  border-color: #5d9cec;
-  background-color: #5d9cec !important;
-}
-
-.SeriesDetails-contentContainer-3ULb7 {
-  background-color: #232323
-}
-
-.SeriesDetailsSeason-header-38oeb {
-  background-color: #303030;
-  color: #fefefe
-}
-
-.SeriesDetailsSeason-season-1YnGm:last-of-type {
-  background-color: #303030;
-  color: #fefefe90;
-  border-color: #424242;
-}
-
-.SeriesDetailsSeason-episodes-14Ujq {
-  border-color: #676767
-}
-
-.SeriesDetailsSeason-collapseButtonContainer-3XxzX {
-  border-top: 1px solid #424242;
-  border-bottom-right-radius: 4px;
-  border-bottom-left-radius: 4px;
-  background-color: #424242;
-}
-
-.VirtualTableRow-row-2osBd:hover {
-  background-color: #5d9cec50
-}
-
-.ProgressBar-container-1VTgk {
-  background-color: #424242
-}
-
-input, .Input-input-dS7Oc {
-  border: 1px solid #424242;
-  background-color: #303030;
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
-  color: #fefefe
-}
-
-.CheckInput-input-3l3IR {
-  border: 1px solid #424242;
-  background-color: #303030;
-  color: #fefefe;
-}
-
-.FieldSet-legend-3mbvV, .Settings-link-1RTRp {
-  border-bottom: 1px solid #676767;
-  color: #5d9cec;
-  font-size: 21px;
-}
-
-.Settings-summary-1BIsi {
-  color: #fefefe;
-}
-
-.SeriesDetailsSeason-season-1YnGm, .TableOptionsColumn-column-2z0me {
-  border: 1px solid #424242;
-  background-color: #232323;
-}
-
-.Popover-popover-18SiF {
-  background-color: #232323;
-}
-
-.Popover-title-2t205 {
-  background-color: #303030;
-  border-color: #424242;
-}
-
-.Popover-bottom-1sA4s::after {
-  background-color: #424242
-}
-
-.EpisodeTitleLink-link-1ZCTO {
-  color: #fefefe
-}
-
-.Card-card-SvrkG {
-  background-color: #303030;
-  color: #fefefe;
-  box-shadow: 0 0 10px 1px #424242
-}
-
-.QualityProfiles-center-3qTb_, .LanguageProfiles-center-18sh2, .ReleaseProfiles-center-2y1r9, .Indexers-center-3HUez, .DownloadClients-center-30cx9, .Notifications-center-13jM2, .AddNewSeries-searchIconContainer-3iiEV {
-  border: 1px solid #424242;
-  background-color: #303030;
-}
-
-.QualityProfileItem-qualityProfileItem-2Xr42, .QualityProfileItemGroup-qualityProfileItemGroup-3SvgI, .LanguageProfileItem-languageProfileItem-1lE9m {
-  border: 1px solid #424242;
-  background: #303030;
-}
-
-.QualityProfileItemGroup-qualityProfileItemGroup-3SvgI .QualityProfileItemGroup-editGroups-19C_2 {
-  background-color: #424242;
-}
-
-.SeriesSearchInput-containerOpen-3CRkE .SeriesSearchInput-seriesContainer-3lxJI {
-  border: 1px solid #212121;
-  background-color: #212121;
-  color: #fefefe;
-}
-
-.SeriesSearchInput-sectionTitle-3he-k {
-  color: #5d9cec;
-  border-bottom: 1px solid #424242
-}
-
-.SeriesSearchInput-highlighted-FnL2Y {
-  background-color: #424242
-}
-
-.AddNewSeriesSearchResult-searchResult-30ozE {
-  background-color: #303030;
-}
-
-.AddNewSeriesSearchResult-searchResult-30ozE:hover {
-  background-color: #424242;
-}
-
-.PageContentFooter-contentFooter-1t6xx {
-  background-color: #303030;
-}
-
-.SeasonPassSeason-season-3Lc-4 {
-  border: 1px solid #424242;
-  background-color: #303030;
-}
-
-.SeasonPassSeason-episodes-3v_IV {
-  background-color: #424242;
-  color: #909090;
-}
-
-.SeasonPassSeason-allEpisodes-vxHTz {
-  background-color: #5d9cec;
-  color: #fefefe;
-}
-
-.DescriptionListItemDescription-description-pR3_W {
-  font-family: Fira Code, FuraCode Nerd Font Mono, Dank Mono, Hasklig, monospace;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.Message-message-2-DlH {
-  background-color: #5d9cec;
-  padding: 5px;
-  color: #fff;
-  font-weight: 600;
-}
-
-.MenuItem-menuItem-211VP {
-  background-color: #303030;
-  border-color: #424242;
-}
-
-.MenuItem-menuItem-211VP:hover, .MenuItem-menuItem-211VP:focus {
-  background-color: #5d9cec;
-}
-
-.Link-to-1jNxQ:hover {
-  color: #35c5f4
-}
-
-.TagInput-inputContainer-3dApq.TagInput-isFocused-tZ4gk {
-  border-color: #66afe9;
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
-}
-
-.TagInput-containerOpen-2g0Wc .TagInput-suggestionsContainer-1vjHY {
-  background-color: #5d9cec;
-  border-color: #66afe9;
-}
-
-.LogsTableDetailsModal-detailsText-385Up {
-  border: 1px solid #424242;
-  background-color: #303030;
-  color: #fefefe;
-  font-family: Fira Code, FuraCode Nerd Font Mono, Dank Mono, Hasklig, monospace;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.ModalFooter-modalFooter-3izCM {
-  border-top-color: #424242
-}
-
-.NamingOption-option-33lWx {
-  border: 1px solid #424242
-}
-
-.NamingOption-option-33lWx:hover .NamingOption-example-2-1sK {
-  background-color: #5d9cec25
-}
-
-.NamingOption-example-2-1sK {
-  background-color: #424242;
-}
-
-.NamingOption-option-33lWx:hover .NamingOption-token-1veip {
-  background-color: #5d9cec70;
-}
-
-.NamingOption-token-1veip {
-  font-family: Fira Code, FuraCode Nerd Font Mono, Dank Mono, Hasklig, Monospace;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #303030;
-}
-
-.QualityDefinition-handle-3HB1j {
-  background-color: #303030;
-}
-
-.Button-default-1X0nf:hover {
-  background-color: #5d9cec;
-  border-color: #5d9cec;
-  color: #fefefe
-}
-
-.SeriesIndexPoster-title-1LWvk {
-  background-color: #303030;
-}
-
-.SeriesIndexPoster-nextAiring-2dTrg {
-  background-color: #5d9cec50;
-  color: #fefefe
-}
-
-.SeriesIndexOverview-container-2zNbo:hover .SeriesIndexOverview-content-3ZT3A {
-  background-color: #424242;
-}
-
-.SeriesIndexOverview-title-1ta1o {
-  color: #fefefe;
-  font-weight: 500;
-}
-
-.SeriesIndexOverview-overview-1bTNa {
-  color: #fefefe90
-}
-
-.SeriesIndexOverview-link-1Qz39:hover {
-  color: #fefefe !important;
-}
-
-.EpisodeSummary-filesHeader-31g7t {
-  border-color: #424242
-}
-
-.EpisodeSummary-fileRow-3brC7 {
-  background-color: #303030;
-  margin-top:-11px;
-  padding: 10px;
-}
-.SeriesIndexOverview-details-2SNyL {
-	border-bottom: 1px solid #424242;
-}
-.PageSidebarItem-isActiveLink-1JpOZ {
-	color: #fefefe;
-	font-weight: 600
+    font-family: Lato, Source Sans Pro, IBM Plex Sans, -Apple-system, BlinkMacSystemFont, sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #232636;
+    color: #fff;
+}
+.PageHeader\/header\/1IhlM {
+    background-color: #232636
+}
+.PageToolbar\/toolbar\/1Lo1N {
+    background-color: #232636;
+	border-bottom: 1px solid #292d3f;
+	border-top: 1px solid #292d3f;
+}
+.CalendarEvent\/seriesTitle\/3sg1o {
+    color: #fff;
+    font-weight: 700
+}
+.CalendarEventGroup\/seriesTitle\/ThqKe {
+    color: #fff;
+    font-weight: 700
+}
+.CalendarEventGroup\/airTime\/1Z6G9,
+.CalendarEvent\/airTime\/3Wzho {
+    color: #ffffff95;
+}
+.CalendarEvent\/missing\/1y6vZ,
+.ProgressBar\/danger\/2omix,
+.SeriesIndexFooter\/missingMonitored\/2_ETf,
+.CalendarEvent\/missing\/1y6vZ {
+    background-color: #f07178 !important;
+    color: #fff;
+}
+.CalendarEvent\/unaired\/3aHdN,
+.ProgressBar\/primary\/3YDfb,
+.SeriesIndexFooter\/-continuing\/84F2g,
+.CalendarEvent\/unaired\/3aHdN {
+    background-color: #82aaff !important;
+    ;
+    color: #fff;
+}
+.Link\/to\/6fmSq {
+    color: #82aaff;
+}
+.CalendarEventGroup\/eventGroup\/gWPtK {
+    background-color: #82aaff;
+    border-bottom: 1px solid #82aaff50;
+    border-left: 4px solid #82aaff20;
+    color: #fff;
+}
+.CalendarEvent\/downloaded\/2vSrJ,
+.ProgressBar\/success\/14T8R,
+.SeriesIndexFooter\/ended\/HYrLQ,
+.CalendarEvent\/downloaded\/2vSrJ {
+    background-color: #8de8a1d9 !important;
+    color: #fff;
+}
+.CalendarEvent\/onAir\/dwaU_,
+.SeriesIndexFooter\/missingUnmonitored\/2AL7V {
+    background-color: #ffcb6b !important;
+    color: #fff;
+}
+.CalendarEvent\/downloading\/1kwSO {
+    background-color: #c792ea !important;
+    color: #fff;
+}
+.CalendarEvent\/unmonitored\/Zvc\/m {
+    background-color: #adadad !important;
+    color: #fff;
+}
+.Message\/info\/2Kom6 {
+    background-color: #35c5f4;
+}
+.Message\/iconContainer\/2ZEq_,
+.Message\/text\/2Llhs {
+    color: #fff !important;
+}
+.Icon\/info\/1CmtC {
+    color: #292d3f50
+}
+.DayOfWeek\/dayOfWeek\/1iw4D {
+    background-color: #292D3F;
+}
+.CalendarEvent\/event\/3Uyb9,
+.CalendarDay\/day\/2TMXA {
+    border-bottom: 1px solid #434758;
+    border-left: 1px solid #434758;
+    ;
+}
+.CalendarDays\/days\/girjM {
+    border-right: 1px solid #fefefe25;
+}
+.Button\/default\/2uiHU {
+    border-color: #232636;
+    background-color: #d0d0d0;
+    color: #232636;
+}
+.SeriesIndexOverview\/container\/4LMzH:hover .SeriesIndexOverview\/content\/3GKJk {
+    background-color: #292d3f;
+}
+.SeriesDetailsSeason\/season\/3XIYa {
+    background-color: #232636;
+    border: 1px solid #293d3f;
+}
+.Popover\/title\/326tA,
+.Popover\/popoverContainer\/1TFsF,
+.Popover\/popovoer\/3g3pq,
+Popover\/tether\/2UtlT,
+.Popover\/body\/10Yh7 {
+    border-bottom: 1px solid #232636;
+    background-color: #292d3f
+}
+.SeriesDetailsSeason\/episodes\/2_O-g,
+.TableRowCell\/cell\/2fbg4 {
+    border-top: 1px solid #293d3f;
+}
+.SeriesDetailsSeason\/collapseButtonContainer\/trs6s {
+    border-top: 1px solid #293d3f;
+    background-color: #292d3f;
+}
+.PageSidebar\/sidebar\/3IOcI {
+    background-color: #292d3f;
+}
+.Message\/info\/2Kom6 {
+    background-color: #89ddff;
+    border-left-color: #89ddff;
+}
+.Message\/message\/3p1Hw {
+    display: -webkit-flex;
+    display: flex;
+    border-left: 3px solid #89ddff;
+    border-left-color: rgb(137, 221, 255);
+}
+.Label\/success\/1pfcC {
+    border-color: #8de8a1d9;
+    background-color: #8de8a1d9;
+    color: #eee;
+}
+.Label\/info\/3YD3Y {
+    color: #fefefe;
+    background-color: #82aaff;
+    font-weight: 500;
+}
+.SeriesIndexPoster\/title\/263Pq {
+    background-color: #232636;
+    font-family: Lato, IBM Plex Sans, 'Source Sans Pro';
+}
+.SeriesIndexPoster\/nextAiring\/1FZy6 {
+    background-color: #292d3f;
+    font-family: Lato, IBM Plex Sans, 'Source Sans Pro';
+}
+.VirtualTableRow\/row\/2\/JS9:hover {
+    background-color: #434758;
+}
+.TableOptionsColumn\/column\/2H7ic {
+    background-color: #434758;
+    border: 1px solid #292d3f;
+}
+.FormInputHelpText\/helpText\/3_AVV {
+    color: #607D8B;
+}
+.CheckInput\/input\/283j3 {
+    border: 1px solid #292d3f;
+    background-color: #292d3f;
+    color: #fff;
+}
+.Settings\/summary\/3KPAv {
+    color: #fff
+}
+.Card\/card\/1iGZk {
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    background-color: #292d3f;
+    box-shadow: 0 0 10px 1px #ffffff15;
+    color: #fff;
+}
+.Card\/card\/1iGZk:hover {
+	background-color: #fefefe15
+}
+.Label\/disabled\/2R5cR.Label\/outline\/1Lb0m {
+    background-color: #29233f;
+    border: 1px solid #29234f;
+    color: #ffffff50
+}
+.FieldSet\/legend\/3x6NF {
+    border-bottom: 1px solid #ffffff15;
+    color: #fff;
+}
+.Alert\/info\/1J8mE {
+    border-color: #bce8f150;
+    background-color: #d9edf750;
+    color: #fefefe;
+}
+.EnhancedSelectInput\/options\/3yy65 {
+    border: 1px solid #dde6e9;
+    border-radius: 4px;
+    background-color: #fff;
+}
+.EnhancedSelectInputOption\/isSelected\/1mRo2 {
+    background-color: #89ddff;
+    color: #292d3f
+}
+.SeriesDetails\/path\/2ZNTp,
+.SeriesDetails\/sizeOnDisk\/lBjcr,
+.SeriesDetails\/qualityProfileName\/60zwg,
+.SeriesDetails\/network\/2Ry-k,
+.SeriesDetails\/links\/2sHA9,
+.SeriesDetails\/tags\/2iq76 {
+    font-family: Lato, Source Sans Pro, IBM Plex Sans;
+}
+.SeriesDetails\/path\/2ZNTp,
+.SeriesDetails\/sizeOnDisk\/lBjcr,
+.SeriesDetails\/qualityProfileName\/60zwg,
+.SeriesDetails\/network\/2Ry-k,
+.SeriesDetails\/links\/2sHA9,
+.SeriesDetails\/tags\/2iq76 {
+    font-weight: 500;
+}
+
+.PageContentFooter\/contentFooter\/3ODMj {
+    background-color: #292d3f;
+}
+.AddNewSeries\/searchIconContainer\/3QAm8 {
+    background-color: #607D8B;
+    border-color: #607D8B;
+}
+.PageSidebarItem\/link\/TuHn2 {
+    padding: 19px 24px;
 }
