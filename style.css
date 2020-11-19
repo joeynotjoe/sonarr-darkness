@@ -1,5 +1,5 @@
 body {
-    font-family: Lato, -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -17,12 +17,15 @@ body {
     border-bottom: 1px solid #292d3e;
     border-top: 1px solid #292d3e;
 }
+
 .panel-body {
     background: #292d3e;
 }
+
 .form-input {
     border-color: #fefefe25
 }
+
 .CalendarEvent\/seriesTitle\/3sg1o {
     color: #fff;
     font-size: 15px
@@ -69,7 +72,7 @@ body {
 .ProgressBar\/success\/14T8R,
 .SeriesIndexFooter\/ended\/HYrLQ,
 .CalendarEvent\/downloaded\/2vSrJ {
-    background-color: #8de8a1d9 !important;
+    background-color: #8DCCA1 !important;
     color: #fff;
 }
 
@@ -100,7 +103,7 @@ body {
 }
 
 .Icon\/info\/1CmtC {
-    color: #292d3e50
+    color: #fff
 }
 
 .IconButton\/button\/2qiGi:hover {
@@ -112,6 +115,7 @@ body {
     border-bottom: none;
     border-left: none;
 }
+
 .CalendarDays\/days\/girjM {
     border-right: 1px solid #ffffff25;
 }
@@ -126,6 +130,14 @@ body {
     border-color: #ab47bc;
     background-color: #e1acff;
     color: #ffffff;
+}
+
+.SeriesDetailsSeason\/sizeOnDisk\/nabiI {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: #ffffff70
 }
 
 .SeriesDetailsSeason\/season\/3XIYa {
@@ -164,12 +176,14 @@ Popover\/tether\/2UtlT,
 }
 
 .Label\/success\/1pfcC {
-    border-color: #8de8a1d9;
-    background-color: #8de8a1d9;
+    border-color: #8DCCA1;
+    background-color: #8DCCA1;
     color: #eee;
+    padding: 5px;
 }
+
 .Icon\/success\/2D9q- {
-    color: #8de8a1d9
+    color: #8DCCA1
 }
 
 .Label\/info\/3YD3Y {
@@ -177,6 +191,7 @@ Popover\/tether\/2UtlT,
     background-color: #ab47bc;
     border-color: #ab47bc;
     font-weight: 500;
+    padding: 5px;
 }
 
 .Label\/inverse\/QUOQ9 {
@@ -185,8 +200,8 @@ Popover\/tether\/2UtlT,
 }
 
 .SeriesIndexPoster\/title\/263Pq {
-    background-color: #232636;
-    font-family: Lato, -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    background-color: #232633;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -195,12 +210,20 @@ Popover\/tether\/2UtlT,
 
 .SeriesIndexPoster\/nextAiring\/1FZy6 {
     background-color: #292d3e;
-    font-family: Lato, -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-variant-numeric: tabular-nums;
 }
+
+.EpisodeTitleLink\/link\/3ynTw {
+    font-size: 14px;
+    line-height: 1.28577;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
 .EpisodeTitleLink\/link\/3ynTw:hover {
     color: #82aaff
 }
@@ -231,6 +254,7 @@ Popover\/tether\/2UtlT,
 .Settings\/link\/tvjY0 {
     border-color: #82aaff
 }
+
 .Settings\/link\/tvjY0:hover {
     color: #ab47bc;
     border-color: #ab47bc
@@ -286,7 +310,7 @@ Popover\/tether\/2UtlT,
 .SeriesDetails\/network\/2Ry-k,
 .SeriesDetails\/links\/2sHA9,
 .SeriesDetails\/tags\/2iq76 {
-    font-family: Lato, -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -348,16 +372,23 @@ Popover\/tether\/2UtlT,
 }
 
 .SeriesDetails\/title\/1yGfe {
-    font-weight: 600
+    font-weight: 700;
+    letter-spacing: .005em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 .PageToolbarButton\/label\/10YbS {
     color: #ffffff;
     font-size: 9px;
-    font-weight: 600;
+    font-weight: 500;
+    line-height: 1.2em;
+    letter-spacing: .005em;
 }
+
 .PageToolbarButton\/toolbarButton\/QiQEt.PageToolbarButton\/isDisabled\/343fJ {
     color: #ffffff40
 }
+
 .TableRow\/row\/33xJE:hover,
 .EnhancedSelectInputOption\/option\/iwTsL:hover,
 .TableRow\/row\/33xJE:hover,
@@ -376,6 +407,7 @@ Popover\/tether\/2UtlT,
 .CustomFilter\/customFilter\/zBSMd:hover {
     background-color: #292d3e;
 }
+
 .PageSidebar\/sidebar\/3IOcI {
     background: #292d3e
 }
@@ -403,11 +435,18 @@ Popover\/tether\/2UtlT,
 .PageToolbarButton\/toolbarButton\/QiQEt:hover {
     color: #82aaff;
 }
+
 .PageSidebarItem\/isActiveItem\/bUesh {
     border-color: #82aaff
 }
+
 .PageSidebarItem\/item\/2zy7a {
     border-color: #82aaff;
+    font-size: 15px;
+    line-height: 1.46667;
+    font-weight: 400;
+    letter-spacing: 0;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .EpisodeDetailsModalContent\/selectedTab\/42EMp,
@@ -450,6 +489,7 @@ input,
     background-color: #232636;
     border: 1px solid #292d3e;
 }
+
 .DownloadClients\/center\/FvACx,
 .QualityProfiles\/center\/1iiKm,
 .LanguageProfiles\/center\/7EV_2,
@@ -458,15 +498,18 @@ input,
     background: #9cc4ff;
     border-color: #9cc4ff
 }
+
 .QualityProfileItemGroup\/qualityProfileItemGroup\/2U1l5 {
     border: 1px solid #292d3e;
     border-radius: 4px;
     background: #ffffff50;
 }
+
 .QualityDefinition\/qualityDefinition\/Ouk7S,
 .DelayProfile\/delayProfile\/4BQz_ {
     border-color: #292d3e
 }
+
 .QualityDefinition\/bar\/LlTjA:nth-child(odd) {
     background-color: #434758
 }
@@ -480,8 +523,7 @@ input,
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
 }
 
-.AutoSuggestInput\/suggestionsContainerOpen\/3TAB7 .AutoSuggestInput\/suggestionsContainer\/3MmlD
- {
+.AutoSuggestInput\/suggestionsContainerOpen\/3TAB7 .AutoSuggestInput\/suggestionsContainer\/3MmlD {
     background-color: #292d3e;
     border: 1px solid #232636
 }
@@ -492,6 +534,7 @@ input,
     padding: 5px;
     opacity: .85
 }
+
 .Input\/input\/2YWzR:focus {
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
     border-color: #66afe9;
@@ -502,31 +545,42 @@ input,
 }
 
 .SeriesDetails\/overview\/TFGN_ {
-    font-size: 1.1em;
+    font-size: 18px;
+    line-height: 1.48577;
+    font-weight: 400;
+    letter-spacing: 0;
 }
+
 .Button\/danger\/GbXmk {
     background-color: #f07178;
 }
+
 .FormInputHelpText\/helpText\/3_AVV {
     color: #d0d0d0
 }
+
 .AgendaEvent\/event\/2a83A,
 .AgendaEvent\/eventWrapper\/1wl3v {
     border-color: #292d3e;
 }
+
 .AgendaEvent\/event\/2a83A:hover {
     background-color: #292d3e
 }
+
 .AgendaEvent\/unmonitored\/rhyx7 {
     background-color: #434758
 }
+
 .Button\/button\/2PYOE.isDisabled {
     opacity: .9;
 }
+
 .SeriesDetails\/backdrop\/1bG6J,
 .SeriesDetails\/backdropOverlay\/s5D6g {
     background-color: #232636;
 }
+
 .SeriesDetails\/backdropOverlay\/s5D6g {
     opacity: .75
 }
