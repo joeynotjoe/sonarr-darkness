@@ -1,586 +1,592 @@
 body {
-    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-variant-numeric: tabular-nums;
-    background-color: #232636;
-    color: #fff;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-variant-numeric: tabular-nums;
+  background-color: #232636;
+  color: #fff;
 }
 
-.PageHeader\/header\/1IhlM {
-    background-color: #232636
+.PageHeader\/header\/1ihlm {
+  background-color: #232636;
 }
 
-.PageToolbar\/toolbar\/1Lo1N {
-    background-color: #292d3e;
-    border-bottom: 1px solid #292d3e;
-    border-top: 1px solid #292d3e;
+.PageToolbar\/toolbar\/1lo1n {
+  background-color: #292d3e;
+  border-bottom: 1px solid #292d3e;
+  border-top: 1px solid #292d3e;
 }
 
 .panel-body {
-    background: #292d3e;
+  background: #292d3e;
 }
 
 .form-input {
-    border-color: #fefefe25
+  border-color: #fefefe25;
 }
 
 .CalendarEvent\/seriesTitle\/3sg1o {
-    color: #fff;
-    font-size: 15px
+  color: #fff;
+  font-size: 15px;
 }
 
 .CalendarEventGroup\/seriesTitle\/ThqKe {
-    color: #fff;
+  color: #fff;
 }
 
-.CalendarEventGroup\/airTime\/1Z6G9,
-.CalendarEvent\/airTime\/3Wzho {
-    color: #ffffff95;
+.CalendarEventGroup\/airTime\/1z6g9,
+.CalendarEvent\/airTime\/3wzho {
+  color: #ffffff95;
 }
 
-.CalendarEvent\/missing\/1y6vZ,
+.CalendarEvent\/missing\/1y6vz,
 .ProgressBar\/danger\/2omix,
 .SeriesIndexFooter\/missingMonitored\/2_ETf,
-.CalendarEvent\/missing\/1y6vZ {
-    background-color: #f07178 !important;
-    color: #fff;
+.CalendarEvent\/missing\/1y6vz {
+  background-color: #f07178 !important;
+  color: #fff;
 }
 
-.CalendarEvent\/unaired\/3aHdN,
-.ProgressBar\/primary\/3YDfb,
-.SeriesIndexFooter\/-continuing\/84F2g,
-.CalendarEvent\/unaired\/3aHdN {
-    background-color: #82aaff !important;
-    ;
-    color: #fff;
+.CalendarEvent\/unaired\/3ahdn,
+.ProgressBar\/primary\/3ydfb,
+.SeriesIndexFooter\/-continuing\/84f2g,
+.CalendarEvent\/unaired\/3ahdn {
+  background-color: #82aaff !important;
+  color: #fff;
 }
 
-.Link\/to\/6fmSq {
-    color: #82aaff;
+.SeriesIndexOverview\/link\/1i54b {
+  color: #fff !important;
+}
+
+.Link\/to\/6fmsq {
+  color: #82aaff;
 }
 
 .CalendarEventGroup\/eventGroup\/gWPtK {
-    background-color: #82aaff;
-    border-bottom: 1px solid #82aaff50;
-    border-left: 4px solid #82aaff20;
-    color: #fff;
+  background-color: #82aaff;
+  border-bottom: 1px solid #82aaff50;
+  border-left: 4px solid #82aaff20;
+  color: #fff;
 }
 
-.CalendarEvent\/downloaded\/2vSrJ,
-.ProgressBar\/success\/14T8R,
+.CalendarEvent\/downloaded\/2vsrj,
+.ProgressBar\/success\/14t8r,
 .SeriesIndexFooter\/ended\/HYrLQ,
-.CalendarEvent\/downloaded\/2vSrJ {
-    background-color: #8DCCA1 !important;
-    color: #fff;
+.CalendarEvent\/downloaded\/2vsrj {
+  background-color: #8dcca1 !important;
+  color: #fff;
 }
 
 .CalendarEvent\/onAir\/dwaU_,
-.SeriesIndexFooter\/missingUnmonitored\/2AL7V {
-    background-color: #ffcb6b !important;
-    color: #fff;
+.SeriesIndexFooter\/missingUnmonitored\/2al7v {
+  background-color: #ffcb6b !important;
+  color: #fff;
 }
 
-.CalendarEvent\/downloading\/1kwSO {
-    background-color: #ab47bc !important;
-    color: #fff;
+.CalendarEvent\/downloading\/1kwso {
+  background-color: #ab47bc !important;
+  color: #fff;
 }
 
 .CalendarEvent\/unmonitored\/Zvc\/m {
-    background-color: #adadad !important;
-    color: #fff;
+  background-color: #adadad !important;
+  color: #fff;
 }
 
-.Message\/info\/2Kom6 {
-    background-color: #ab47bc;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+.Message\/info\/2kom6 {
+  background-color: #ab47bc;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
-.Message\/iconContainer\/2ZEq_,
-.Message\/text\/2Llhs {
-    color: #fff !important;
+.Message\/iconContainer\/2zeq_,
+.Message\/text\/2llhs {
+  color: #fff !important;
 }
 
-.Icon\/info\/1CmtC {
-    color: #fff
+.Icon\/info\/1cmtc {
+  color: #fff;
 }
 
-.IconButton\/button\/2qiGi:hover {
-    color: #89ddff
+.IconButton\/button\/2qigi:hover {
+  color: #89ddff;
 }
 
-.CalendarEvent\/event\/3Uyb9,
-.CalendarDay\/day\/2TMXA {
-    border-bottom: none;
-    border-left: none;
+.CalendarEvent\/event\/3uyb9,
+.CalendarDay\/day\/2tmxa {
+  border-color: #292d3e;
 }
 
 .CalendarDays\/days\/girjM {
-    border-right: 1px solid #ffffff25;
+  border-right: 1px solid #ffffff25;
 }
 
-.Button\/default\/2uiHU {
-    border-color: #82aaff;
-    background-color: #9cc4ff;
-    color: #fff;
+.Button\/default\/2uihu {
+  border-color: #82aaff;
+  background-color: #9cc4ff;
+  color: #fff;
 }
 
-.Button\/default\/2uiHU:hover {
-    border-color: #ab47bc;
-    background-color: #e1acff;
-    color: #ffffff;
+.Button\/default\/2uihu:hover {
+  border-color: #ab47bc;
+  background-color: #e1acff;
+  color: #ffffff;
 }
 
 .SeriesDetailsSeason\/sizeOnDisk\/nabiI {
-    font-size: 12px;
-    line-height: 1.33337;
-    font-weight: 400;
-    letter-spacing: 0;
-    color: #ffffff70
+  font-size: 12px;
+  line-height: 1.33337;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: #ffffff70;
 }
 
-.SeriesDetailsSeason\/season\/3XIYa {
-    background-color: #292d3e;
-    border: 1px solid #292d3e;
+.SeriesDetailsSeason\/season\/3xiya {
+  background-color: #292d3e;
+  border: 1px solid #292d3e;
 }
 
-.Popover\/title\/326tA,
-.Popover\/popoverContainer\/1TFsF,
+.Popover\/title\/326ta,
+.Popover\/popoverContainer\/1tfsf,
 .Popover\/popovoer\/3g3pq,
-Popover\/tether\/2UtlT,
-.Popover\/body\/10Yh7 {
-    border-bottom: 1px solid #232636;
-    background-color: #292d3e
+Popover\/tether\/2utlt,
+.Popover\/body\/10yh7 {
+  border-bottom: 1px solid #232636;
+  background-color: #292d3e;
 }
 
 .SeriesDetailsSeason\/episodes\/2_O-g,
 .TableRowCell\/cell\/2fbg4 {
-    border-top: 1px solid #292d3e;
+  border-top: 1px solid #292d3e;
 }
 
 .SeriesDetailsSeason\/collapseButtonContainer\/trs6s {
-    border-top: 1px solid #292d3e;
-    background-color: #292d3e;
+  border-top: 1px solid #292d3e;
+  background-color: #292d3e;
 }
 
-.Message\/info\/2Kom6 {
-    background-color: #82aaff;
-    border-left-color: #82aaff;
+.Message\/info\/2kom6 {
+  background-color: #82aaff;
+  border-left-color: #82aaff;
 }
 
-.Message\/message\/3p1Hw {
-    border-left: 3px solid #ab47bc;
-    border-left-color: #ab47bc;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+.Message\/message\/3p1hw {
+  border-left: 3px solid #ab47bc;
+  border-left-color: #ab47bc;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
-.Label\/success\/1pfcC {
-    border-color: #8DCCA1;
-    background-color: #8DCCA1;
-    color: #eee;
-    padding: 5px;
+.Label\/success\/1pfcc {
+  border-color: #8dcca1;
+  background-color: #8dcca1;
+  color: #eee;
+  padding: 5px;
 }
 
-.Icon\/success\/2D9q- {
-    color: #8DCCA1
+.Icon\/success\/2d9q- {
+  color: #8dcca1;
 }
 
-.Label\/info\/3YD3Y {
-    color: #ffffff;
-    background-color: #ab47bc;
-    border-color: #ab47bc;
-    font-weight: 500;
-    padding: 5px;
+.Label\/info\/3yd3y {
+  color: #ffffff;
+  background-color: #ab47bc;
+  border-color: #ab47bc;
+  font-weight: 500;
+  padding: 5px;
 }
 
 .Label\/inverse\/QUOQ9 {
-    background-color: #ffffff;
-    border-color: #ffffff;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 
-.SeriesIndexPoster\/title\/263Pq {
-    background-color: #232633;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-variant-numeric: tabular-nums;
+.SeriesIndexPoster\/title\/263pq {
+  background-color: #232633;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-variant-numeric: tabular-nums;
 }
 
-.SeriesIndexPoster\/nextAiring\/1FZy6 {
-    background-color: #292d3e;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-variant-numeric: tabular-nums;
+.SeriesIndexPoster\/nextAiring\/1fzy6 {
+  background-color: #292d3e;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-variant-numeric: tabular-nums;
 }
 
-.EpisodeTitleLink\/link\/3ynTw {
-    font-size: 14px;
-    line-height: 1.28577;
-    font-weight: 400;
-    letter-spacing: 0;
+.EpisodeTitleLink\/link\/3yntw {
+  font-size: 14px;
+  line-height: 1.28577;
+  font-weight: 400;
+  letter-spacing: 0;
 }
 
-.EpisodeTitleLink\/link\/3ynTw:hover {
-    color: #82aaff
+.EpisodeTitleLink\/link\/3yntw:hover {
+  color: #82aaff;
 }
 
 .VirtualTableRow\/row\/2\/JS9:hover {
-    background-color: #434758;
+  background-color: #434758;
 }
 
-.TableOptionsColumn\/column\/2H7ic {
-    background-color: #434758;
-    border: 1px solid #434758;
+.TableOptionsColumn\/column\/2h7ic {
+  background-color: #434758;
+  border: 1px solid #434758;
 }
 
 .FormInputHelpText\/helpText\/3_AVV {
-    color: #607D8B;
+  color: #607d8b;
 }
 
 .CheckInput\/input\/283j3 {
-    border: 1px solid #292d3e;
-    background-color: #292d3e;
-    color: #fff;
+  border: 1px solid #292d3e;
+  background-color: #292d3e;
+  color: #fff;
 }
 
-.Settings\/summary\/3KPAv {
-    color: #fff
+.Settings\/summary\/3kpav {
+  color: #fff;
 }
 
 .Settings\/link\/tvjY0 {
-    border-color: #82aaff
+  border-color: #82aaff;
 }
 
 .Settings\/link\/tvjY0:hover {
-    color: #ab47bc;
-    border-color: #ab47bc
+  color: #ab47bc;
+  border-color: #ab47bc;
 }
 
-.Card\/card\/1iGZk {
-    position: relative;
-    margin: 10px;
-    padding: 10px;
-    border-radius: 3px;
-    background-color: #82aaff;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-    color: #fff;
+.Card\/card\/1igzk {
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: #82aaff;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  color: #fff;
 }
 
-.Card\/card\/1iGZk:hover {
-    background-color: #82aaff;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+.Card\/card\/1igzk:hover {
+  background-color: #82aaff;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
-.Label\/disabled\/2R5cR.Label\/outline\/1Lb0m {
-    background-color: #29233f;
-    border: 1px solid #29234f;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-    color: #ffffff
+.Label\/disabled\/2r5cr.Label\/outline\/1lb0m {
+  background-color: #29233f;
+  border: 1px solid #29234f;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  color: #ffffff;
 }
 
-.FieldSet\/legend\/3x6NF {
-    border-bottom: 1px solid #ffffff15;
-    color: #fff;
+.FieldSet\/legend\/3x6nf {
+  border-bottom: 1px solid #ffffff15;
+  color: #fff;
 }
 
-.Alert\/info\/1J8mE {
-    border-color: #434758;
-    background-color: #434758;
-    color: #ffffff;
+.Alert\/info\/1j8me {
+  border-color: #434758;
+  background-color: #434758;
+  color: #ffffff;
 }
 
 .EnhancedSelectInput\/options\/3yy65 {
-    border: 1px solid #dde6e9;
-    border-radius: 4px;
-    background-color: #fff;
+  border: 1px solid #dde6e9;
+  border-radius: 4px;
+  background-color: #fff;
 }
 
-.EnhancedSelectInputOption\/isSelected\/1mRo2 {
-    background-color: #89ddff;
-    color: #292d3e
+.EnhancedSelectInputOption\/isSelected\/1mro2 {
+  background-color: #89ddff;
+  color: #292d3e;
 }
 
-.SeriesDetails\/path\/2ZNTp,
+.SeriesDetails\/path\/2zntp,
 .SeriesDetails\/sizeOnDisk\/lBjcr,
 .SeriesDetails\/qualityProfileName\/60zwg,
-.SeriesDetails\/network\/2Ry-k,
-.SeriesDetails\/links\/2sHA9,
+.SeriesDetails\/network\/2ry-k,
+.SeriesDetails\/links\/2sha9,
 .SeriesDetails\/tags\/2iq76 {
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-variant-numeric: tabular-nums;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-variant-numeric: tabular-nums;
 }
 
-.AddNewSeries\/searchIconContainer\/3QAm8 {
-    background-color: #607D8B;
-    border-color: #607D8B;
+.AddNewSeries\/searchIconContainer\/3qam8 {
+  background-color: #607d8b;
+  border-color: #607d8b;
 }
 
-.PageSidebarItem\/link\/TuHn2 {
-    padding: 19px 24px;
-}
-
-.ProgressBar\/container\/14z4A {
-    background-color: #292d3e
+.ProgressBar\/container\/14z4a {
+  background-color: #292d3e;
 }
 
 .LogsTableDetailsModal\/detailsText\/3iwn_,
-.TagInput\/containerOpen\/1I9Wr .TagInput\/suggestionsContainer\/2fPJR {
-    background-color: #292d3e;
-    border: 1px solid #292d3e;
-    color: #fff;
-    font-family: Operator SSM, Inconsolata, IBM Plex Mono, Andale Mono, monospace;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+.TagInput\/containerOpen\/1i9wr .TagInput\/suggestionsContainer\/2fpjr {
+  background-color: #292d3e;
+  border: 1px solid #292d3e;
+  color: #fff;
+  font-family: Operator SSM, Inconsolata, IBM Plex Mono, Andale Mono, monospace;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.TagInput\/suggestion\/3m3G0:hover {
-    background-color: #89ddff;
-    color: #292d3e;
+.TagInput\/suggestion\/3m3g0:hover {
+  background-color: #89ddff;
+  color: #292d3e;
 }
 
 .ModalContent\/modalContent\/-txrl,
 .Notifications\/center\/8iwmy,
 .EnhancedSelectInput\/options\/3yy65,
 .ModalContent\/modalContent\/-txrl {
-    background-color: #232636;
-    border: 1px solid #292d3e;
-    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .4)
+  background-color: #232636;
+  border: 1px solid #292d3e;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.4);
 }
 
 .ModalHeader\/modalHeader\/gpcvG,
 .ModalHeader-modalHeader-gpcvG,
 .ProgressBar-container-14z4A {
-    border-bottom: none;
-    background-color: #292d3e;
+  border-bottom: none;
+  background-color: #292d3e;
 }
 
 .EpisodeSummary\/filesHeader\/2_Kgn {
-    border-bottom: 1px solid #ffffff20
+  border-bottom: 1px solid #ffffff20;
 }
 
 .CalendarEventGroup\/episodeInfo\/vfg0M,
 .CalendarEvent\/episodeInfo\/IWdbW {
-    color: #ffffff;
+  color: #ffffff;
 }
 
-.SeriesDetails\/title\/1yGfe {
-    font-weight: 700;
-    letter-spacing: .005em;
-    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+.SeriesDetails\/title\/1ygfe {
+  font-weight: 700;
+  letter-spacing: 0.005em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
 }
 
-.PageToolbarButton\/label\/10YbS {
-    color: #ffffff;
-    font-size: 9px;
-    font-weight: 500;
-    line-height: 1.2em;
-    letter-spacing: .005em;
+.PageToolbarButton\/label\/10ybs {
+  color: #ffffff;
+  font-size: 9px;
+  font-weight: 500;
+  line-height: 1.2em;
+  letter-spacing: 0.005em;
 }
 
-.PageToolbarButton\/toolbarButton\/QiQEt.PageToolbarButton\/isDisabled\/343fJ {
-    color: #ffffff40
+.PageToolbarButton\/toolbarButton\/QiQEt.PageToolbarButton\/isDisabled\/343fj {
+  color: #ffffff40;
 }
 
-.TableRow\/row\/33xJE:hover,
+.TableRow\/row\/33xje:hover,
 .EnhancedSelectInputOption\/option\/iwTsL:hover,
-.TableRow\/row\/33xJE:hover,
+.TableRow\/row\/33xje:hover,
 .VirtualTableRow\/row\/2-JS9:hover,
 .FilterBuilderRow\/filterRow\/1ozij:hover,
 .CustomFilter-customFilter-zBSMd:hover,
 .NamingOption\/token\/1y5bz,
-.Tooltip\/tooltip\/3HJXy.Tooltip\/default\/2NTKh,
-.Tooltip\/left\/3QgYj.Tooltip\/default\/2NTKh,
-.Popover\/title\/326tA,
-.Tooltip\/tooltip\/3hJXy,
-.Tooltip\/default\/2NTKh,
-.DayOfWeek\/dayOfWeek\/1iw4D,
-.SeriesIndexOverview\/container\/4LMzH:hover .SeriesIndexOverview\/content\/3GKJk,
-.PageContentFooter\/contentFooter\/3ODMj,
+.Tooltip\/tooltip\/3hjxy.Tooltip\/default\/2ntkh,
+.Tooltip\/left\/3qgyj.Tooltip\/default\/2ntkh,
+.Popover\/title\/326ta,
+.Tooltip\/tooltip\/3hjxy,
+.Tooltip\/default\/2ntkh,
+.DayOfWeek\/dayOfWeek\/1iw4d,
+.SeriesIndexOverview\/container\/4lmzh:hover
+  .SeriesIndexOverview\/content\/3gkjk,
+.PageContentFooter\/contentFooter\/3odmj,
 .CustomFilter\/customFilter\/zBSMd:hover {
-    background-color: #292d3e;
+  background-color: #292d3e;
 }
 
-.PageSidebar\/sidebar\/3IOcI {
-    background: #292d3e
+.PageSidebar\/sidebar\/3ioci {
+  background: #292d3e;
 }
 
-.PageSidebarItem\/isActiveParentLink\/2uxKf {
-    background: #82aaff;
-    color: #ffffff;
+.PageSidebarItem\/isActiveParentLink\/2uxkf {
+  background: #82aaff;
+  color: #ffffff;
 }
 
 .PageSidebarItem\/link\/TuHn2:hover,
 .PageSidebarItem\/link\/TuHn2:focus {
-    background: #82aaff;
-    color: #ffffff;
+  background: #82aaff;
+  color: #ffffff;
 }
 
 .TableRowCell\/cell\/2fbg4 {
-    border-top: 1px solid #ffffff10
+  border-top: 1px solid #ffffff10;
 }
 
-.ModalFooter\/modalFooter\/1N5Ku {
-    border-top: none;
-    background-color: #292d3e;
+.ModalFooter\/modalFooter\/1n5ku {
+  border-top: none;
+  background-color: #292d3e;
 }
 
 .PageToolbarButton\/toolbarButton\/QiQEt:hover {
-    color: #82aaff;
+  color: #82aaff;
 }
 
 .PageSidebarItem\/isActiveItem\/bUesh {
-    border-color: #82aaff
+  border-left: 3px solid #82aaff;
 }
 
 .PageSidebarItem\/item\/2zy7a {
-    border-color: #82aaff;
-    font-size: 15px;
-    line-height: 1.46667;
-    font-weight: 400;
-    letter-spacing: 0;
-    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.46667;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
 }
 
-.EpisodeDetailsModalContent\/selectedTab\/42EMp,
-.Input\/input\/2YWzR {
-    border-color: #292d3e;
-    border-radius: 0 0 5px 5px;
-    background-color: #292d3e;
-    color: #fff;
+.EpisodeDetailsModalContent\/selectedTab\/42emp,
+.Input\/input\/2ywzr {
+  border-color: #292d3e;
+  border-radius: 0 0 5px 5px;
+  background-color: #292d3e;
+  color: #fff;
 }
 
 input,
 .AddNewSeriesSearchResult\/searchResult\/xR8dj,
-.TagInput\/suggestionsContainer\/2fPJR,
-.AddNewSeriesSearchResult\/underlay\/11FBP {
-    background-color: #292d3e;
-    color: #fff
+.TagInput\/suggestionsContainer\/2fpjr,
+.AddNewSeriesSearchResult\/underlay\/11fbp {
+  background-color: #292d3e;
+  color: #fff;
 }
 
 .AddNewSeriesSearchResult\/searchResult\/xR8dj:hover,
-.AddNewSeriesSearchResult\/underlay\/11FBP:hover {
-    background-color: #607D8B;
+.AddNewSeriesSearchResult\/underlay\/11fbp:hover {
+  background-color: #607d8b;
 }
 
 .NamingOption\/option\/giCGd {
-    border: 1px solid #232636
+  border: 1px solid #232636;
 }
 
 .NamingOption\/example\/RNR6x {
-    background-color: #232636;
-    border: 1px solid #292d3e
+  background-color: #232636;
+  border: 1px solid #292d3e;
 }
 
 .NamingOption\/option\/giCGd:hover .NamingOption\/token\/1y5bz {
-    background-color: #ffffff30
+  background-color: #ffffff30;
 }
 
 .QualityProfileItem\/qualityProfileItem\/VFp\/W,
-.LanguageProfileItem\/languageProfileItem\/18XGg,
+.LanguageProfileItem\/languageProfileItem\/18xgg,
 .QualityProfileItem\/qualityProfileItem\/VFp-W {
-    background-color: #232636;
-    border: 1px solid #292d3e;
+  background-color: #232636;
+  border: 1px solid #292d3e;
 }
 
 .DownloadClients\/center\/FvACx,
-.QualityProfiles\/center\/1iiKm,
-.LanguageProfiles\/center\/7EV_2,
-.ReleaseProfiles\/center\/114Qx,
-.Indexers\/center\/11Csq {
-    background: #9cc4ff;
-    border-color: #9cc4ff
+.QualityProfiles\/center\/1iikm,
+.LanguageProfiles\/center\/7ev_2,
+.ReleaseProfiles\/center\/114qx,
+.Indexers\/center\/11csq {
+  background: #9cc4ff;
+  border-color: #9cc4ff;
 }
 
-.QualityProfileItemGroup\/qualityProfileItemGroup\/2U1l5 {
-    border: 1px solid #292d3e;
-    border-radius: 4px;
-    background: #ffffff50;
+.QualityProfileItemGroup\/qualityProfileItemGroup\/2u1l5 {
+  border: 1px solid #292d3e;
+  border-radius: 4px;
+  background: #ffffff50;
 }
 
 .QualityDefinition\/qualityDefinition\/Ouk7S,
-.DelayProfile\/delayProfile\/4BQz_ {
-    border-color: #292d3e
+.DelayProfile\/delayProfile\/4bqz_ {
+  border-color: #292d3e;
 }
 
 .QualityDefinition\/bar\/LlTjA:nth-child(odd) {
-    background-color: #434758
+  background-color: #434758;
 }
 
 .QualityDefinition\/handle\/3wp-k {
-    background-color: #434758;
-    border-color: #82aaff
+  background-color: #434758;
+  border-color: #82aaff;
 }
 
-.Input\/input\/2YWzR:focus {
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+.Input\/input\/2ywzr:focus {
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075),
+    0 0 8px rgba(102, 175, 233, 0.6);
 }
 
-.AutoSuggestInput\/suggestionsContainerOpen\/3TAB7 .AutoSuggestInput\/suggestionsContainer\/3MmlD {
-    background-color: #292d3e;
-    border: 1px solid #232636
+.AutoSuggestInput\/suggestionsContainerOpen\/3tab7
+  .AutoSuggestInput\/suggestionsContainer\/3mmld {
+  background-color: #292d3e;
+  border: 1px solid #232636;
 }
 
-.Label\/default\/2AF1C {
-    background-color: #292d3e;
-    border-color: #292d3e;
-    padding: 5px;
-    opacity: .85
+.Label\/default\/2af1c {
+  background-color: #292d3e;
+  border-color: #292d3e;
+  padding: 7px;
 }
 
-.Input\/input\/2YWzR:focus {
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
-    border-color: #66afe9;
+.Input\/input\/2ywzr:focus {
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075),
+    0 0 8px rgba(102, 175, 233, 0.6);
+  border-color: #66afe9;
 }
 
-.AutoSuggestInput\/suggestionHighlighted\/2BWyt {
-    background-color: #ffffff30
+.AutoSuggestInput\/suggestionHighlighted\/2bwyt {
+  background-color: #ffffff30;
 }
 
 .SeriesDetails\/overview\/TFGN_ {
-    font-size: 18px;
-    line-height: 1.48577;
-    font-weight: 400;
-    letter-spacing: 0;
+  font-size: 18px;
+  line-height: 1.48577;
+  font-weight: 400;
+  letter-spacing: 0;
 }
 
 .Button\/danger\/GbXmk {
-    background-color: #f07178;
+  background-color: #f07178;
 }
 
 .FormInputHelpText\/helpText\/3_AVV {
-    color: #d0d0d0
+  color: #d0d0d0;
 }
 
-.AgendaEvent\/event\/2a83A,
+.AgendaEvent\/event\/2a83a,
 .AgendaEvent\/eventWrapper\/1wl3v {
-    border-color: #292d3e;
+  border-color: #292d3e;
 }
 
-.AgendaEvent\/event\/2a83A:hover {
-    background-color: #292d3e
+.AgendaEvent\/event\/2a83a:hover {
+  background-color: #292d3e;
 }
 
 .AgendaEvent\/unmonitored\/rhyx7 {
-    background-color: #434758
+  background-color: #434758;
 }
 
-.Button\/button\/2PYOE.isDisabled {
-    opacity: .9;
+.Button\/button\/2pyoe.isDisabled {
+  opacity: 0.9;
 }
 
-.SeriesDetails\/backdrop\/1bG6J,
+.SeriesDetails\/backdrop\/1bg6j,
 .SeriesDetails\/backdropOverlay\/s5D6g {
-    background-color: #232636;
+  background-color: #232636;
 }
 
 .SeriesDetails\/backdropOverlay\/s5D6g {
-    opacity: .75
+  opacity: 0.75;
 }
